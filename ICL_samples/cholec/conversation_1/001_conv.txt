@@ -1,0 +1,29 @@
+Question:
+Where is the gallbladder located in the operative view?
+===
+Answer:
+The gallbladder is in the central portion of the frame.
+===
+Question:
+Where is the liver in relation to the gallbladder?
+===
+Answer:
+The liver lies behind and around the gallbladder, forming much of the background tissue.
+===
+Question:
+Where is the hook electrocautery positioned relative to the gallbladder?
+===
+Answer:
+The hook approaches from the right-lower side and is oriented toward the central operative area near the gallbladder.
+===
+Question:
+What tissue occupies a large part of the lower portion of the view?
+===
+Answer:
+Fatty tissue occupies much of the lower portion of the field.
+===
+Question:
+Do you see obvious bleeding in this frame?
+===
+Answer:
+No obvious bleeding is prominent in this frame.

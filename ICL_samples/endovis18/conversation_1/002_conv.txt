@@ -1,0 +1,53 @@
+Question:
+Where is the stapler located relative to the kidney?
+===
+Answer:
+The stapler is positioned on the right side of the frame and is oriented toward the central operative area near the kidney.
+===
+Question:
+Is the stapler currently engaged (e.g., firing/dividing tissue) in this frame?
+===
+Answer:
+No. The stapler is visible but not firing/dividing tissue at this moment.
+===
+Question:
+Where is the prograsp forceps positioned in the operative view?
+===
+Answer:
+The prograsp forceps is positioned in the upper-right region.
+===
+Question:
+What is the prograsp forceps doing in this frame?
+===
+Answer:
+The prograsp forceps is manipulating tissue, consistent with providing traction and stabilizing tissue near the kidney.
+===
+Question:
+Where is the suction instrument positioned in the operative field?
+===
+Answer:
+The suction instrument approaches from the left side.
+===
+Question:
+What is the suction instrument doing in this frame?
+===
+Answer:
+The suction instrument is actively engaged in the operative field.
+===
+Question:
+Is any suture material or clamps visible in the operative field?
+===
+Answer:
+Yes. Suture material and clamps are visible in the field.
+===
+Question:
+Are the suture material or clamps being actively manipulated in this frame?
+===
+Answer:
+No. They are not being actively manipulated in this moment.
+===
+Question:
+How many instruments are visible in this frame?
+===
+Answer:
+Four instruments are visible: bipolar forceps, prograsp forceps, monopolar curved scissors, and a suction instrument.

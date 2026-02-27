@@ -1,0 +1,17 @@
+Question:
+What workflow moment does this most likely represent?
+===
+Answer:
+Given that the field shows active retraction of the gallbladder and surrounding fatty tissue while the hook is present but not actively dissecting, this most likely represents an exposure/positioning moment to optimize traction and clearing the field before resuming active dissection so the next move can be done with better visualization and safer tissue tension.
+===
+Question:
+Why is this type of tissue retraction clinically helpful before advancing dissection?
+===
+Answer:
+In this moment, fatty tissue appears to be retracted away from the gallbladder region. Clearing this tissue improves visualization, reduces clutter in the operative window, and helps prevent unintended contact or traction injury. It also reduces the chance that an energy instrument or subsequent maneuver affects non-target tissue.
+===
+Question:
+If electrocautery were activated while non-target tissue is still close to the working zone, what patient-impacting complication becomes more likely?
+===
+Answer:
+Thermal injury to non-target tissue becomes more likely, which can lead to serosal burns or deeper injury. In the wrong location, this can translate into postoperative pain, inflammation. Or if a hollow viscus is injured then more serious complications such as perforation or leak can occur.

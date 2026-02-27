@@ -1,0 +1,41 @@
+Question:
+What instruments and key anatomical structures are visible in this frame?
+===
+Answer:
+The frame shows the kidney as the dominant structure, with small intestine visible in the lower field. Four instruments are present: bipolar forceps, prograsp forceps, monopolar curved scissors, and a suction instrument.
+===
+Question:
+Which instruments are actively interacting with tissue, and which are not actively engaged?
+===
+Answer:
+The bipolar forceps, prograsp forceps, and suction instrument are manipulating tissue, while the monopolar curved scissors are present but not actively cutting in this moment.
+===
+Question:
+Where is the bipolar forceps positioned, and what is it doing?
+===
+Answer:
+The bipolar forceps approaches from the left side (upper-left region) and is manipulating tissue, consistent with controlled handling/traction in the operative field.
+===
+Question:
+Where is the prograsp forceps positioned, and what is it doing?
+===
+Answer:
+The prograsp forceps is positioned in the lower-left portion of the frame and is manipulating tissue, consistent with providing traction or stabilizing tissue in the lower operative field.
+===
+Question:
+Where is the suction instrument positioned, and what is it doing?
+===
+Answer:
+The suction instrument enters from the right side and is actively engaged in the operative field, consistent with tissue handling and/or maintaining a clear working space.
+===
+Question:
+Do multiple instruments converge toward the kidney region at the same time?
+===
+Answer:
+Yes. Instruments approach the central operative region near the kidney from the left and right, while another instrument provides traction from the lower-left.
+===
+Question:
+What operative phase is shown in this image?
+===
+Answer:
+This is the Calot Triangle Dissection phase.

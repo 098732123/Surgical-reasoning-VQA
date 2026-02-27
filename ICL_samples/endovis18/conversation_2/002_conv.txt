@@ -1,0 +1,35 @@
+Question:
+What tools and key structures are visible in this frame?
+===
+Answer:
+The kidney is visible along with four instruments: bipolar forceps, prograsp forceps, a suction instrument, and a stapler. Thread (suture) and clamps are also visible in the field.
+===
+Question:
+Which instruments are actively manipulating tissue in this scene?
+===
+Answer:
+The prograsp forceps and the suction instrument are actively manipulating tissue.
+===
+Question:
+Which instruments are present but not actively engaged?
+===
+Answer:
+The bipolar forceps and the stapler are present but not actively engaged in this moment.
+===
+Question:
+Where is the prograsp forceps positioned, and what is it doing?
+===
+Answer:
+The prograsp forceps is positioned in the upper-right region and is manipulating tissue, consistent with providing traction and stabilizing tissue near the kidney.
+===
+Question:
+Where is the suction instrument positioned, and what is it doing?
+===
+Answer:
+The suction instrument approaches from the left side and is actively engaged in the operative field, consistent with tissue handling and maintaining visualization of the working space.
+===
+Question:
+Is any suture material or clamps visible in the field, and are they being actively manipulated in this moment?
+===
+Answer:
+Yes thread and clamps are visible, but the active actions in this frame are focused on tissue handling and stapler positioning rather than active suturing/looping.

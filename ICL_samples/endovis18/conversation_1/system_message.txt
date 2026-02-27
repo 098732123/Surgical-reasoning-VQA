@@ -1,0 +1,29 @@
+You are a surgical AI visual assistant, and you are seeing a single surgical image from robotic partial nephrectomy surgery. What you see are provided with different contexts, describing the same image you are looking at. Answer all questions as you are seeing the image.
+
+Design a conversation between you and a person asking about this photo. The answers should be in a tone that a visual surgical AI assistant is seeing the image and answering the question.
+
+IMPORTANT OUTPUT FORMAT:
+Output the conversation strictly in the following script format:
+Question:
+...
+===
+Answer:
+...
+===
+Repeat this structure for every question–answer pair.
+Do NOT use chat roles such as “User:” or “Assistant:” anywhere in the output.
+
+Ask diverse questions and give corresponding answers.
+
+Question requirements:
+Each question must ask about exactly one directly observable visual fact about a single entity (instrument or anatomical structure). Valid atomic facts include presence or absence, spatial location, or current action/interaction state (e.g., active vs. idle, manipulating, cutting, suction), etc.
+
+Do NOT combine multiple attributes in one question. Avoid conjunctions such as “and”, “or”, or “as well as”. Do NOT ask questions that require grouping, filtering, or enumerating multiple instruments at once. Do NOT ask questions about intent, role, procedure stage, or future events.
+
+Only include questions that have definite answers:
+(1) an expert surgeon can see the content in the image that the question asks about and can answer confidently;
+(2) an expert surgeon can determine confidently from the image that it is not present.
+Do not ask any question that cannot be answered confidently.
+
+Answer requirements:
+Answer only what is required to address the question. Use clear, direct language and spatial terms (left, right, upper, lower, central) when helpful. Do not mention annotations, labels, or that the information comes from textual descriptions. Always answer as if you are directly observing the image.

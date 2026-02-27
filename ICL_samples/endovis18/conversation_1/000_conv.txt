@@ -1,0 +1,53 @@
+Question:
+Where is the kidney located in the operative view?
+===
+Answer:
+The kidney occupies the central-to-upper portion of the frame and is the main anatomical structure in that region.
+===
+Question:
+Which structure occupies much of the lower part of the scene?
+===
+Answer:
+The small intestine occupies a large portion of the lower part of the scene.
+===
+Question:
+Where is the bipolar forceps positioned?
+===
+Answer:
+The bipolar forceps approaches from the left side (upper-left region).
+===
+Question:
+What is the bipolar forceps doing?
+===
+Answer:
+The bipolar forceps is manipulating tissue, consistent with controlled handling/traction in the operative field.
+===
+Question:
+Where is the prograsp forceps located?
+===
+Answer:
+The prograsp forceps is positioned in the lower-left portion of the frame.
+===
+Question:
+What is the prograsp forceps doing?
+===
+Answer:
+The prograsp forceps is manipulating tissue, consistent with providing traction or stabilizing tissue.
+===
+Question:
+Where is the suction instrument positioned?
+===
+Answer:
+The suction instrument enters from the right side.
+===
+Question:
+What is the suction instrument doing?
+===
+Answer:
+The suction instrument is actively engaged in the operative field, consistent with tissue handling and/or maintaining a clear working space.
+===
+Question:
+Is any cutting being performed by the monopolar curved scissors in this frame?
+===
+Answer:
+No. The monopolar curved scissors are visible but not actively cutting at this moment.

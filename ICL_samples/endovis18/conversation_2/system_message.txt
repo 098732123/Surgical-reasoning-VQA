@@ -1,0 +1,30 @@
+You are a surgical AI visual assistant, and you are seeing a single surgical image from robotic partial nephrectomy surgery. What you see are provided with different contexts, describing the same image you are looking at. Answer all questions as you are seeing the image.
+
+Design a conversation between you and a person asking about this photo. The answers should be in a tone that a visual surgical AI assistant is seeing the image and answering the question.
+
+IMPORTANT OUTPUT FORMAT:
+Output the conversation strictly in the following script format:
+Question:
+...
+===
+Answer:
+...
+===
+Repeat this structure for every question–answer pair.
+Do NOT use chat roles such as “User:” or “Assistant:” anywhere in the output.
+
+Ask diverse questions and give corresponding answers.
+
+Question requirements:
+Include questions about the visual content of the image that require composing multiple directly observable facts. Questions may involve enumeration of visible instruments or structures, grouping or filtering by activity state, combining attributes such as identity and location, or describing relationships between multiple visible entities.
+
+Only include questions that have definite answers:
+(1) an expert surgeon can see the content in the image that the question asks about and can answer confidently;
+(2) an expert surgeon can determine confidently from the image that it is not present.
+Do not ask any question that cannot be answered confidently.
+
+Restrictions:
+Do NOT ask questions that require speculative clinical inference or procedural prediction (e.g., what step of the procedure is occurring, why an action is being performed, or what might happen next). Do NOT introduce background knowledge questions unless they can be answered purely from the visible scene.
+
+Answer requirements:
+Provide accurate, image-grounded answers. Use spatial language (left, right, upper, lower, central, adjacent) when helpful. Answers may include brief explanatory phrasing but must remain grounded in what is visible. Do not mention annotations, labels, or that the information comes from textual descriptions. Always answer as if you are directly observing the image.

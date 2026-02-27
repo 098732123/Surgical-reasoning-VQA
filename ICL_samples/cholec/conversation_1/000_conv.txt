@@ -1,0 +1,47 @@
+Question:
+What structure is the grasper holding in this view?
+===
+Answer:
+The grasper is holding the gallbladder.
+===
+Question: 
+Where is the hook electrocautery positioned?
+===
+Answer: 
+The hook electrocautery is positioned at the right-bottom, entering from the right side of the view.
+===
+Question:
+Where is the grasper positioned relative to the gallbladder?
+===
+Answer:
+The grasper is positioned at the upper portion of the view, grasping the upper aspect of the gallbladder.
+===
+Question:
+Where is the hook electrocautery positioned relative to the gallbladder?
+===
+Answer:
+The hook enters from the right side and is positioned against the gallbladder margin in the central-right operative area.
+===
+Question:
+Is the hook actively being used to dissect tissue in this frame?
+===
+Answer:
+Yes. The hook is dissecting along tissue at the gallbladder surface/edge where it meets surrounding attachments.
+===
+Question:
+What major organ occupies much of the background adjacent to the gallbladder?
+===
+Answer:
+The liver occupies much of the background on the right side of the operative view.
+===
+Question:
+Is there any visible bleeding in the field?
+===
+Answer:
+Yes, there is a small amount of blood visible in the lower portion of the operative field.
+===
+Question:
+How many distinct instruments are visible in this frame?
+===
+Answer:
+Two instruments are visible: grasper and a hook.

@@ -1,0 +1,29 @@
+Question:
+What instruments are visible in this frame?
+===
+Answer:
+A grasper and a hook electrocautery instrument are present.
+===
+Question:
+Besides the grasper and hook, do you see any other instruments in this frame?
+===
+Answer:
+No. Only the grasper and the hook electrocautery are visible in this frame, and no additional instruments are present.
+===
+Question:
+In what general direction is the gallbladder being pulled by the grasper?
+===
+Answer:
+The gallbladder is being pulled upward toward the top of the frame to create tension and exposure.
+===
+Question:
+Which instruments are actively interacting with tissue in this frame?
+===
+Answer:
+The grasper is retracting the gallbladder, and the hook electrocautery is actively dissecting tissue along the gallbladder margin.
+===
+Question:
+How are the grasper and hook electrocautery positioned relative to each other in the operative field?
+===
+Answer:
+The grasper is positioned superiorly, pulling the gallbladder upward, while the hook electrocautery approaches from the right side toward the gallbladder margin below it.

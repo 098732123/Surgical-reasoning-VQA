@@ -1,0 +1,17 @@
+Question:
+What is the most likely immediate surgical objective?
+===
+Answer:
+Based on how the gallbladder is being retracted and dissected in this frame, the most likely objective is to improve exposure and develop a safe dissection plane around the gallbladder by tensioning tissue with traction while dividing attachments with the hook, so that the surgeon can progress safely through the dissection step.
+===
+Question:
+What adverse event risk is particularly relevant at this moment?
+===
+Answer:
+In this frame, a hook electrocautery instrument appears to be in use near the interface between the gallbladder and the liver bed. In this setting, a key risk is unintended thermal spread or overly deep dissection, which can cause bleeding from small vessels in the liver bed or surrounding tissue, or perforation of the gallbladder with bile spillage. Imprecise dissection in this area can also increase the risk of injury to nearby biliary structures if tissue planes are not clearly defined.
+===
+Question:
+What is a practical safety-focused micro-step before continuing deeper dissection?
+===
+Answer:
+Given the small amount of blood visible in the field, a practical micro-step is to ensure hemostasis and regain a clear view by controlling any oozing/bleeding and confirming tissue planes, because even minor bleeding can obscure anatomy and raise the risk of misdirected dissection.

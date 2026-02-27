@@ -1,0 +1,29 @@
+Question:
+What instruments are visible in this frame?
+===
+Answer:
+A grasper and a hook electrocautery are visible.
+===
+Question:
+What tissue is the hook working on in this frame?
+===
+Answer:
+The hook is dissecting tissue consistent with fatty adhesions adjacent to the gallbladder.
+===
+Question:
+Which instruments are actively interacting with the gallbladder in this frame?
+===
+Answer:
+The grasper is grasping and retracting the gallbladder, while the hook electrocautery is dissecting tissue along the gallbladder.
+===
+Question:
+How are the grasper and hook electrocautery positioned relative to the gallbladder in the operative field?
+===
+Answer:
+The grasper is positioned superiorly relative to the gallbladder, while the hook electrocautery approaches from the right side toward the gallbladder region.
+===
+Question:
+What actions are being performed on the gallbladder during this phase of the procedure?
+===
+Answer:
+During this phase, the gallbladder is being grasped and retracted by the grasper to provide exposure, while the hook electrocautery is dissecting tissue along its surface.

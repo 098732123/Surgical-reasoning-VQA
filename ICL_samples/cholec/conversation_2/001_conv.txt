@@ -1,0 +1,29 @@
+Question:
+Which instruments are present in this frame?
+===
+Answer:
+Graspers and a hook electrocautery.
+===
+Question: 
+What phase of the cholecystectomy procedure is being performed in this view?
+===
+Answer:
+This view corresponds to the calot triangle dissection phase of the cholecystectomy procedure.
+===
+Question:
+What is being retracted by the grasper(s) in this view?
+===
+Answer:
+The grasper(s) are retracting the gallbladder and also pulling adjacent fatty tissue from the working area.
+===
+Question:
+Is the hook actively dissecting a specific target in this frame, or is it mainly positioned?
+===
+Answer:
+It is currently just positioned here and not performing a defined dissection action in this moment.
+===
+Question:
+Are any additional instruments visible in the frame beyond the graspers and hook electrocautery?
+===
+Answer:
+No other instruments are visible in this frame.
